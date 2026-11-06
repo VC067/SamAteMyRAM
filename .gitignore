@@ -1,0 +1,26 @@
+﻿# Build outputs
+build/
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.res
+*.pdb
+*.ilk
+
+# Portable compiler/tools directory (kept local on F: for complete folder cleanup)
+tools/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+
+# System
+Thumbs.db
+Desktop.ini
+
+# Local test output
+self-test-result.txt
